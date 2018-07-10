@@ -1,0 +1,13 @@
+{
+    "name": "papajo/wxpay",
+    "type": "library",
+    "description": "wxpay",
+    "keywords": [
+        "wxpay",
+    ],
+    "license": "BSD",
+    "minimum-stability" : "dev",
+    "autoload": {
+        "psr-4": {"WXPay\\": "src/"}
+    }
+}
