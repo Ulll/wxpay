@@ -3,7 +3,7 @@
     "type": "library",
     "description": "wxpay",
     "keywords": [
-        "wxpay",
+        "wxpay"
     ],
     "license": "BSD",
     "minimum-stability" : "dev",
